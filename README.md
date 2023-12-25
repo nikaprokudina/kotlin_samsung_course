@@ -1,3 +1,4 @@
+<img width="1073" alt="image" src="https://github.com/nikaprokudina/kotlin_sumsung_course/assets/129796936/9fb62dce-b539-4873-8704-f410c1fe1632">
 
 Samsung Innovation Campus - глобальный социально-образовательный проект
 компании Samsung Electronics (далее Проект), направленный на подготовку молодых
